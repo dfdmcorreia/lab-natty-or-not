@@ -1,51 +1,44 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natural ou Fake Natty? - Finanças e Dividendos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Bem-vindo ao desafio "Natural ou Fake Natty?", focado em finanças e como viver de dividendos. Este projeto utiliza ferramentas acessíveis e gratuitas para criar conteúdos realistas sobre finanças pessoais e estratégias para viver de dividendos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT (versão gratuita)](https://chat.openai.com)**: Para geração de textos e artigos.
+- **[Canva](https://www.canva.com/)**: Para criação de infográficos e gráficos.
+- IA Generativa **[Naturalreaders](https://www.naturalreaders.com/commercial/)**: Para gravação e edição de áudios.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+### Textos
+Utilizando o ChatGPT, foram gerados artigos detalhados sobre o tema de viver de dividendos. Exemplos de prompts utilizados incluem: "Escreva um artigo sobre como viver de dividendos, incluindo estratégias de investimento, benefícios e riscos."
+
+### Imagens
+O Canva foi usado para criar infográficos e gráficos que explicam conceitos financeiros. Templates prontos foram adaptados para incluir dados relevantes sobre dividendos e estratégias de investimento.
+
+### Áudios
+Gravações de podcasts foram realizadas com o Audacity. Roteiros baseados nos artigos gerados pelo ChatGPT foram utilizados para garantir coerência e clareza nas narrações.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+### Artigos
+- **Como Viver de Dividendos**: Um artigo abrangente que explica o que são dividendos, estratégias de investimento, benefícios e riscos.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+### Infográficos e Gráficos
+- **Distribuição de Dividendos**: Infográficos detalhando como os dividendos são distribuídos aos acionistas e estratégias para escolher ações de dividendos.
 
-### Exemplos e Insigths
+### Podcasts
+- **Podcast sobre Dividendos**: Episódios discutindo estratégias de investimentos, como começar e dicas para maximizar rendimentos.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
+O desafio de criar conteúdos 'natty' com IA foi uma experiência enriquecedora. Utilizar ferramentas acessíveis e gratuitas demonstrou que é possível produzir materiais de alta qualidade sem grandes investimentos. A combinação de diferentes ferramentas permitiu explorar diversas formas de comunicação, desde textos detalhados até vídeos educativos, ampliando o alcance e a eficácia da mensagem.
 
-## Links Interessantes
+### Exemplos e Insights
+#### E-BOOK
+- Um compilado dos artigos e infográficos gerados, formando um guia completo sobre como viver de dividendos.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+#### Podcast
+- Séries de episódios abordando diferentes aspectos dos investimentos em dividendos, disponíveis em formato de áudio.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+#### Mapa de Tendências: IAs Generativas
+- Análise das tendências atuais e futuras no uso de IAs generativas para criação de conteúdos educacionais e financeiros.
+
+Sinta-se à vontade para explorar os conteúdos gerados e compartilhar seus feedbacks!
