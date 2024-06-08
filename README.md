@@ -22,11 +22,20 @@ Gravações de podcasts foram realizadas com o Audacity. Roteiros baseados nos a
 ### Artigos
 - **Como Viver de Dividendos**: Um artigo abrangente que explica o que são dividendos, estratégias de investimento, benefícios e riscos.
 
+#### Veja nosso Artigo Sobre Como Viver de Dividendos
+[Veja o Artigo Sobre Como Viver de Dividendos](texts/como_viver_de_dividendos.md)
+
 ### Infográficos e Gráficos
 - **Distribuição de Dividendos**: Infográficos detalhando como os dividendos são distribuídos aos acionistas e estratégias para escolher ações de dividendos.
 
+#### Veja nosso infográfico sobre Finanças
+[Veja o infográfico sobre finanças](images/photo1.png)
+
 ### Podcasts
 - **Podcast sobre Dividendos**: Episódios discutindo estratégias de investimentos, como começar e dicas para maximizar rendimentos.
+
+#### Ouça nosso Podcast sobre Dividendos
+[Ouça o podcast sobre dividendos](audio/NattyOrNot.mp3)
 
 ## 💭 Reflexão
 O desafio de criar conteúdos 'natty' com IA foi uma experiência enriquecedora. Utilizar ferramentas acessíveis e gratuitas demonstrou que é possível produzir materiais de alta qualidade sem grandes investimentos. A combinação de diferentes ferramentas permitiu explorar diversas formas de comunicação, desde textos detalhados até vídeos educativos, ampliando o alcance e a eficácia da mensagem.
